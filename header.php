@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Reveal Bootstrap Template</title>
+  <title>COC Fernadopolis</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
 
   <!-- Favicons -->
-  <link href="img/favicon.png" rel="icon">
+  <link href="images/Logo-Simples.png" rel="icon">
   <link href="img/logo0.png" rel="logo">
 
   <!-- Google Fonts -->
@@ -49,7 +49,7 @@
   <section id="topbar" class="d-none d-lg-block">
     <div class="container clearfix">
       <div class="contact-info float-left">
-        <i class="fa fa-envelope-o"></i> <a href="mailto:InsentivoC@example.com">contact@example.com</a>
+        <i class="fa fa-envelope-o"></i> <a href="mailto:InsentivoC@example.com">incentivococ_fernadopolis@hotmail.com</a>
         <i class="fa fa-phone"></i> <span style="color: #fff">+17 5589 55488 55</span>
       </div>
       <div class="social-links float-right">
